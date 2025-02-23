@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE79CD4C-558F-4B0D-AAFF-8F7C794C41D2}|AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj|c:\\users\\p0107424\\source\\repos\\awesomegicbank\\awesomegicbank.tests\\banktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE79CD4C-558F-4B0D-AAFF-8F7C794C41D2}|AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj|solutionrelative:awesomegicbank.tests\\banktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|c:\\users\\p0107424\\source\\repos\\awesomegicbank\\awesomegicbank\\dtos\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|solutionrelative:awesomegicbank\\dtos\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|c:\\users\\p0107424\\source\\repos\\awesomegicbank\\awesomegicbank\\dtos\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|solutionrelative:awesomegicbank\\dtos\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|c:\\users\\p0107424\\source\\repos\\awesomegicbank\\awesomegicbank\\dtos\\interestrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|solutionrelative:awesomegicbank\\dtos\\interestrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|c:\\users\\p0107424\\source\\repos\\awesomegicbank\\awesomegicbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD2855A-A00B-4BDA-B38F-8C9F929A1A40}|AwesomeGICBank\\AwesomeGICBank.csproj|solutionrelative:awesomegicbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankTests.cs",
+              "DocumentMoniker": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank.Tests\\BankTests.cs",
+              "RelativeDocumentMoniker": "AwesomeGICBank.Tests\\BankTests.cs",
+              "ToolTip": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank.Tests\\BankTests.cs",
+              "RelativeToolTip": "AwesomeGICBank.Tests\\BankTests.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAIAzwHoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:43:03.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterestRule.cs",
+              "DocumentMoniker": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Dtos\\InterestRule.cs",
+              "RelativeDocumentMoniker": "AwesomeGICBank\\Dtos\\InterestRule.cs",
+              "ToolTip": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Dtos\\InterestRule.cs",
+              "RelativeToolTip": "AwesomeGICBank\\Dtos\\InterestRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:24:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Dtos\\Account.cs",
+              "RelativeDocumentMoniker": "AwesomeGICBank\\Dtos\\Account.cs",
+              "ToolTip": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Dtos\\Account.cs",
+              "RelativeToolTip": "AwesomeGICBank\\Dtos\\Account.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:23:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Dtos\\Transaction.cs",
+              "RelativeDocumentMoniker": "AwesomeGICBank\\Dtos\\Transaction.cs",
+              "ToolTip": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Dtos\\Transaction.cs",
+              "RelativeToolTip": "AwesomeGICBank\\Dtos\\Transaction.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:22:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Program.cs",
+              "RelativeDocumentMoniker": "AwesomeGICBank\\Program.cs",
+              "ToolTip": "C:\\Users\\P0107424\\source\\repos\\AwesomeGICBank\\AwesomeGICBank\\Program.cs",
+              "RelativeToolTip": "AwesomeGICBank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:20:21.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

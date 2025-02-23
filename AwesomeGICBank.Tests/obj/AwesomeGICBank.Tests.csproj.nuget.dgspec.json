@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj",
+        "projectName": "AwesomeGICBank.Tests",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank\\AwesomeGICBank.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank\\AwesomeGICBank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank\\AwesomeGICBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank\\AwesomeGICBank.csproj",
+        "projectName": "AwesomeGICBank",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank\\AwesomeGICBank.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

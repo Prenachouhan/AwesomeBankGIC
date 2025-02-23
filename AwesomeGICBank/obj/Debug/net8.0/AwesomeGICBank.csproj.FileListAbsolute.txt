@@ -1,0 +1,14 @@
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.exe
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.deps.json
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.runtimeconfig.json
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.dll
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.pdb
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.AssemblyInfoInputs.cache
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.AssemblyInfo.cs
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.csproj.CoreCompileInputs.cache
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.dll
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\refint\AwesomeGICBank.dll
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.pdb
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.genruntimeconfig.cache
+C:\Users\P0107424\source\repos\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\ref\AwesomeGICBank.dll
