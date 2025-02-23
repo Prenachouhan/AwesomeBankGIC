@@ -27,3 +27,18 @@ C:\Users\ASUS\source\repos\BankAwesomeGIC-main\BankAwesomeGIC-main\AwesomeGICBan
 C:\Users\ASUS\source\repos\BankAwesomeGIC-main\BankAwesomeGIC-main\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.pdb
 C:\Users\ASUS\source\repos\BankAwesomeGIC-main\BankAwesomeGIC-main\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\BankAwesomeGIC-main\BankAwesomeGIC-main\AwesomeGICBank\obj\Debug\net7.0\ref\AwesomeGICBank.dll
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\bin\Debug\net7.0\AwesomeGICBank.exe
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\bin\Debug\net7.0\AwesomeGICBank.deps.json
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\bin\Debug\net7.0\AwesomeGICBank.runtimeconfig.json
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\bin\Debug\net7.0\AwesomeGICBank.dll
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\bin\Debug\net7.0\AwesomeGICBank.pdb
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.dll
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\refint\AwesomeGICBank.dll
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.pdb
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\AwesomeGICBank.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\New folder\AwesomeBankGIC\AwesomeGICBank\obj\Debug\net7.0\ref\AwesomeGICBank.dll

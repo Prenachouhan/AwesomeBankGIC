@@ -18,6 +18,8 @@ namespace AwesomeGICBank.Dtos
             if (date > DateTime.UtcNow)
                 throw new ArgumentException("Transaction date cannot be in the future.", nameof(date));
 
+            if (!Enum.IsDefined(typeof(TransactionType), type))
+                throw new ArgumentException($"Invalid transaction type: {type}.", nameof(type));
 
             if (amount <= 0)
                 throw new ArgumentException("Amount must be greater than zero.", nameof(amount));

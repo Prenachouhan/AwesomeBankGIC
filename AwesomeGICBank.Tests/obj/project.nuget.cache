@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Vvh5cFsZSoT2DVsFomIG4cWgwnjqUg5Ny05EgItDqz154eXqlh+7eIyqvF9jjrvNfsLIYbyekkL/clBBvDsMA==",
+  "dgSpecHash": "Gl3i25qcShp/1QZnoRbFeIIb1cd+00MAbqYHKRNXtrSGUA4y9jff2uii/Eqg5HRps276PnIRjCFR6/xQ5ImpsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\BankAwesomeGIC-main\\BankAwesomeGIC-main\\AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\New folder\\AwesomeBankGIC\\AwesomeGICBank.Tests\\AwesomeGICBank.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

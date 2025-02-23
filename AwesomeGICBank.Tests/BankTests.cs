@@ -38,7 +38,7 @@ namespace AwesomeGICBank.Tests
             TransactionType invalidType = (TransactionType)999; // Out of enum range 
 
             Assert.Throws<ArgumentException>(() =>
-                new Transaction(DateTime.Now, "TXN009", invalidType, 500m)
+                new Transaction(DateTime.UtcNow, "TXN009", invalidType, 500m)
             );
         }
 
@@ -49,7 +49,7 @@ namespace AwesomeGICBank.Tests
         public void InvalidTransactionAmount_ShouldThrowException(decimal amount)
         {
             Assert.Throws<ArgumentException>(() =>
-                new Transaction(DateTime.Now, "TXN010", TransactionType.Deposit, amount)
+                new Transaction(DateTime.UtcNow, "TXN010", TransactionType.Deposit, amount)
             );
         }
 
@@ -59,7 +59,7 @@ namespace AwesomeGICBank.Tests
         [InlineData(105)]
         public void InvalidInterestRate_ShouldThrowException(decimal rate)
         {
-            DateTime date = DateTime.Now;
+            DateTime date = DateTime.UtcNow;
 
             Assert.Throws<ArgumentException>(() =>
                 new InterestRule(date, "IR003", rate)
@@ -183,7 +183,7 @@ namespace AwesomeGICBank.Tests
         //[Fact]
         //public void SaveData_ShouldWriteToFile()
         //{
-        //    testAccount.AddTransaction(new Transaction(DateTime.Now, "TXN008", "D", 3000m));
+        //    testAccount.AddTransaction(new Transaction(DateTime.UtcNow, "TXN008", "D", 3000m));
         //    Program.accounts[testAccount.AccountId] = testAccount;
         //
         //    Program.SaveData();
